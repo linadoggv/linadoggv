@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lína
-- 👀 I’m interested in bridges, video games and sci-fi
+- 👀 I’m interested in bridges, because they are cool B)
 - 🌱 I’m currently learning civil engineering
-- 💞️ I’m looking to collaborate on python programmming ?
+- 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me linadoggv@gmail.com
 
 <!---
