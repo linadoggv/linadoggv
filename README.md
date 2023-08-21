@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Lína
-- 👀 I’m interested in bridges, because they are cool B)
-- 🌱 I’m currently learning civil engineering
-- 💞️ I’m looking to collaborate on awesome projects
-- 📫 How to reach me linadoggv@gmail.com
+- 👋 Hi, I’m Mabel
+- UwU I’m a really sweet bean
 
 <!---
 linadoggv/linadoggv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
